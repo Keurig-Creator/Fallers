@@ -19,10 +19,13 @@
 *.tar.gz
 *.rar
 dependency-reduced-pom.xml
-/target
-/out
+target
+out
 /.idea
-/tickets
+tickets
+config.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+src/main/resources/config.properties
+src/main/resources/config.properties
